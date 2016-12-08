@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding:0;
+      box-sizing: border-box; 
+}
+main{
+    width: 960px;
+margin:5px auto;
+
+}
+
+.name{
+    text-align: center;
+}
+hr{
+    margin: 20px auto;
+    width: 60px;
+    background-color:#6fb048;
+    height: 1px;
+
+}
+h1{
+    color:#0f5f5c;
+    font-size: 42px;
+    font-weight: normal;
+}
+section>p{
+    padding-top: 32px;
+    color:#83a7a5;
+    font-size: 21px;
+}
+.input{
+    float: left;
+
+}
+input{
+    display:block;
+   margin-top: 28px;
+    height: 45px;
+    padding-left: 18px;
+   width: 492px;
+}
+.Message{
+    height: 126px;
+    width: 494px;
+    margin-top: 28px;
+    padding-top: 20px;
+    padding-left: 18px;
+    font:13.3333px 'Arial';
+
+}
+.my_button{
+    width: 189px;
+    background-color: #6fb048;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    padding-left: 0;
+    font-weight: bold;
+    font-family: 'Times New Roman',cursive;
+}
+.info{
+    border:2px dashed #c1d3d2;
+    width: 338px ;
+    height: 270px;
+    float: right;
+    margin-top: 28px;
+}
+h2{
+    text-transform: uppercase;
+    color:#0f5f5c;
+    padding: 40px 0 28px 40px;
+    font-weight: normal;
+
+}
+.img{
+    padding-left: 42px;
+    padding-bottom: 15px;
+}
+img{
+    float: left;
+}
+.float{
+margin-left: 25px;
+   padding-top: 4px;
+    color:#83a7a5;
+}
+.float1{
+    margin-left: 25px;
+
+    color:#83a7a5;
+}
+.message{
+    padding-top: 4px;
+
+
+}
+.my_button:hover {
+  font-weight: bold;
+cursor: pointer;
+}
+
